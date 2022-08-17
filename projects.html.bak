@@ -7,11 +7,19 @@
 	<body bgcolor=black>
 		<h1><font color=gold size=10><center> WELCOME TO CLOUD GEN PROJECTS</center></font></h1>
 
-	<hr color=yellow size=6>
-	<h2><font color=green> we are offering the below porjects</h2>
-	<ol>
+	<hr>
+	<br><br>
+	<h1>we are offering the training in below courses.
+	<br>
 	<h3>DevOps</h3>
-	</ol>
+	<h3>AWS</h3>
+	<h3>Linux</h3>
+	<h3>Python</h3>
+
+<h3>Python with Fullstack
+    <h3>Azure</h3>
+    <h3>Google Cloud</h3>
+    
 
 	</body>
 </html>
